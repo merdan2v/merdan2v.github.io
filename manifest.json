@@ -1,6 +1,6 @@
 {
-    "name": "ui_gallary",
-    "short_name": "ui_gallary",
+    "name": "gallary",
+    "short_name": "gallary",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
